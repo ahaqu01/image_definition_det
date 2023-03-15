@@ -1,0 +1,4 @@
+musiq:
+  img_range: 1.
+  input_size: [128, 128]
+  longer_side_lengths: [112, 224]
