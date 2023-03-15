@@ -14,7 +14,7 @@
 
 **you can use it as submodule**
 
-在自己的项目目录下，git submodule add  https://gitlab.ictidei.cn/band-intel-center/Algorithm-platform/image_definition_det.git
+在自己的项目目录下，git submodule add  https://github.com/ahaqu01/image_definition_det.git
 
 便会在项目目录下下载到image_definition_det相关代码
 
